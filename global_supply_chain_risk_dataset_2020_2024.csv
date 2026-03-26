@@ -1,0 +1,721 @@
+Year,Month,Country,Port,Shipments,Average_Delay_Hours,Weather,Risk_Level
+2020,1,China,Ningbo,585,55,Heavy Rain,High
+2020,1,United States,Long Beach,2822,1,Heavy Rain,Low
+2020,1,Germany,Hamburg,2668,0,Clear,Low
+2020,1,India,Mumbai,2386,42,Storm,High
+2020,1,Japan,Tokyo,2653,51,Clear,High
+2020,1,South Korea,Busan,1528,50,Heavy Rain,High
+2020,1,Singapore,Singapore,1028,6,Heavy Rain,Low
+2020,1,Netherlands,Rotterdam,1392,32,Typhoon,Medium
+2020,1,Brazil,Santos,2281,71,Storm,High
+2020,1,United Kingdom,Felixstowe,718,8,Fog,Low
+2020,1,Australia,Sydney,1867,5,Heavy Rain,Low
+2020,1,UAE,Jebel Ali,537,0,Heavy Rain,Low
+2020,2,China,Shenzhen,2382,48,Heavy Rain,High
+2020,2,United States,New York,1776,30,Typhoon,Medium
+2020,2,Germany,Bremerhaven,2451,3,Heavy Rain,Low
+2020,2,India,Chennai,1350,39,Clear,High
+2020,2,Japan,Tokyo,1628,37,Fog,High
+2020,2,South Korea,Busan,2909,42,Heavy Rain,High
+2020,2,Singapore,Singapore,1506,3,Clear,Low
+2020,2,Netherlands,Rotterdam,2288,13,Clear,Medium
+2020,2,Brazil,Santos,2536,34,Clear,Medium
+2020,2,United Kingdom,Felixstowe,2940,3,Typhoon,Low
+2020,2,Australia,Sydney,2996,20,Storm,Medium
+2020,2,UAE,Jebel Ali,1285,0,Typhoon,Low
+2020,3,China,Shenzhen,2030,27,Heavy Rain,Medium
+2020,3,United States,Los Angeles,1620,21,Clear,Medium
+2020,3,Germany,Bremerhaven,584,64,Storm,High
+2020,3,India,Chennai,1381,3,Storm,Low
+2020,3,Japan,Tokyo,2698,13,Fog,Medium
+2020,3,South Korea,Busan,532,9,Clear,Low
+2020,3,Singapore,Singapore,1923,1,Storm,Low
+2020,3,Netherlands,Rotterdam,2128,34,Typhoon,Medium
+2020,3,Brazil,Santos,2626,41,Typhoon,High
+2020,3,United Kingdom,Felixstowe,2547,65,Heavy Rain,High
+2020,3,Australia,Sydney,1265,69,Storm,High
+2020,3,UAE,Jebel Ali,2533,53,Storm,High
+2020,4,China,Ningbo,1912,64,Storm,High
+2020,4,United States,Los Angeles,562,32,Typhoon,Medium
+2020,4,Germany,Bremerhaven,2637,18,Heavy Rain,Medium
+2020,4,India,Chennai,1463,3,Fog,Low
+2020,4,Japan,Tokyo,755,25,Typhoon,Medium
+2020,4,South Korea,Busan,681,15,Fog,Medium
+2020,4,Singapore,Singapore,586,36,Fog,High
+2020,4,Netherlands,Rotterdam,1604,40,Storm,High
+2020,4,Brazil,Santos,2930,10,Fog,Low
+2020,4,United Kingdom,Felixstowe,900,53,Storm,High
+2020,4,Australia,Sydney,1046,72,Fog,High
+2020,4,UAE,Jebel Ali,2301,50,Fog,High
+2020,5,China,Shenzhen,1664,24,Clear,Medium
+2020,5,United States,Long Beach,1930,66,Clear,High
+2020,5,Germany,Hamburg,1851,16,Storm,Medium
+2020,5,India,Chennai,2294,56,Typhoon,High
+2020,5,Japan,Tokyo,2021,15,Fog,Medium
+2020,5,South Korea,Busan,2724,57,Typhoon,High
+2020,5,Singapore,Singapore,2147,26,Typhoon,Medium
+2020,5,Netherlands,Rotterdam,2331,1,Typhoon,Low
+2020,5,Brazil,Santos,1604,2,Heavy Rain,Low
+2020,5,United Kingdom,Felixstowe,2016,31,Storm,Medium
+2020,5,Australia,Sydney,1074,57,Heavy Rain,High
+2020,5,UAE,Jebel Ali,1557,55,Fog,High
+2020,6,China,Shanghai,985,31,Fog,Medium
+2020,6,United States,Los Angeles,2617,57,Heavy Rain,High
+2020,6,Germany,Hamburg,680,18,Heavy Rain,Medium
+2020,6,India,Chennai,1836,57,Clear,High
+2020,6,Japan,Tokyo,2686,23,Typhoon,Medium
+2020,6,South Korea,Busan,769,61,Typhoon,High
+2020,6,Singapore,Singapore,2886,46,Storm,High
+2020,6,Netherlands,Rotterdam,2250,17,Clear,Medium
+2020,6,Brazil,Santos,674,21,Storm,Medium
+2020,6,United Kingdom,Felixstowe,2005,51,Fog,High
+2020,6,Australia,Sydney,1637,68,Clear,High
+2020,6,UAE,Jebel Ali,2843,19,Clear,Medium
+2020,7,China,Shenzhen,1655,3,Storm,Low
+2020,7,United States,New York,1843,29,Storm,Medium
+2020,7,Germany,Hamburg,2842,64,Heavy Rain,High
+2020,7,India,Mumbai,664,11,Fog,Low
+2020,7,Japan,Tokyo,879,25,Heavy Rain,Medium
+2020,7,South Korea,Busan,1434,51,Storm,High
+2020,7,Singapore,Singapore,2504,38,Storm,High
+2020,7,Netherlands,Rotterdam,1656,44,Fog,High
+2020,7,Brazil,Santos,2782,63,Typhoon,High
+2020,7,United Kingdom,Felixstowe,2023,62,Storm,High
+2020,7,Australia,Sydney,1762,13,Typhoon,Medium
+2020,7,UAE,Jebel Ali,1049,36,Typhoon,High
+2020,8,China,Shanghai,2117,40,Clear,High
+2020,8,United States,Los Angeles,1831,50,Storm,High
+2020,8,Germany,Bremerhaven,2027,52,Typhoon,High
+2020,8,India,Mumbai,1180,29,Clear,Medium
+2020,8,Japan,Tokyo,1350,67,Heavy Rain,High
+2020,8,South Korea,Busan,2263,8,Clear,Low
+2020,8,Singapore,Singapore,1333,69,Clear,High
+2020,8,Netherlands,Rotterdam,1415,1,Storm,Low
+2020,8,Brazil,Santos,1747,17,Fog,Medium
+2020,8,United Kingdom,Felixstowe,783,36,Storm,High
+2020,8,Australia,Sydney,2939,47,Storm,High
+2020,8,UAE,Jebel Ali,1091,72,Heavy Rain,High
+2020,9,China,Shanghai,1984,6,Fog,Low
+2020,9,United States,Long Beach,2610,55,Heavy Rain,High
+2020,9,Germany,Bremerhaven,763,8,Storm,Low
+2020,9,India,Chennai,1646,24,Clear,Medium
+2020,9,Japan,Yokohama,1590,34,Heavy Rain,Medium
+2020,9,South Korea,Busan,2377,69,Heavy Rain,High
+2020,9,Singapore,Singapore,1023,47,Fog,High
+2020,9,Netherlands,Rotterdam,1073,61,Heavy Rain,High
+2020,9,Brazil,Santos,2955,47,Fog,High
+2020,9,United Kingdom,Felixstowe,2839,4,Typhoon,Low
+2020,9,Australia,Sydney,2792,13,Clear,Medium
+2020,9,UAE,Jebel Ali,2850,11,Storm,Low
+2020,10,China,Shenzhen,2192,33,Heavy Rain,Medium
+2020,10,United States,Los Angeles,1108,28,Typhoon,Medium
+2020,10,Germany,Bremerhaven,1223,53,Heavy Rain,High
+2020,10,India,Chennai,1784,10,Heavy Rain,Low
+2020,10,Japan,Yokohama,2753,51,Storm,High
+2020,10,South Korea,Busan,2174,15,Clear,Medium
+2020,10,Singapore,Singapore,1003,63,Typhoon,High
+2020,10,Netherlands,Rotterdam,649,12,Heavy Rain,Medium
+2020,10,Brazil,Santos,852,16,Fog,Medium
+2020,10,United Kingdom,Felixstowe,2361,72,Fog,High
+2020,10,Australia,Sydney,2770,72,Typhoon,High
+2020,10,UAE,Jebel Ali,2279,33,Heavy Rain,Medium
+2020,11,China,Ningbo,2829,48,Clear,High
+2020,11,United States,Los Angeles,1336,28,Storm,Medium
+2020,11,Germany,Hamburg,2269,44,Typhoon,High
+2020,11,India,Chennai,903,66,Clear,High
+2020,11,Japan,Yokohama,781,61,Clear,High
+2020,11,South Korea,Busan,1075,39,Fog,High
+2020,11,Singapore,Singapore,867,10,Typhoon,Low
+2020,11,Netherlands,Rotterdam,1094,65,Clear,High
+2020,11,Brazil,Santos,777,62,Clear,High
+2020,11,United Kingdom,Felixstowe,616,30,Typhoon,Medium
+2020,11,Australia,Sydney,562,65,Typhoon,High
+2020,11,UAE,Jebel Ali,2122,40,Fog,High
+2020,12,China,Shanghai,1788,13,Fog,Medium
+2020,12,United States,Long Beach,2031,57,Heavy Rain,High
+2020,12,Germany,Hamburg,750,33,Typhoon,Medium
+2020,12,India,Mumbai,1312,21,Typhoon,Medium
+2020,12,Japan,Tokyo,1659,62,Heavy Rain,High
+2020,12,South Korea,Busan,2753,13,Fog,Medium
+2020,12,Singapore,Singapore,813,70,Typhoon,High
+2020,12,Netherlands,Rotterdam,2578,56,Typhoon,High
+2020,12,Brazil,Santos,2822,3,Heavy Rain,Low
+2020,12,United Kingdom,Felixstowe,1643,24,Heavy Rain,Medium
+2020,12,Australia,Sydney,2618,44,Storm,High
+2020,12,UAE,Jebel Ali,2672,6,Fog,Low
+2021,1,China,Ningbo,2768,11,Fog,Low
+2021,1,United States,New York,1647,27,Clear,Medium
+2021,1,Germany,Hamburg,1788,69,Typhoon,High
+2021,1,India,Mumbai,2404,62,Fog,High
+2021,1,Japan,Tokyo,789,12,Fog,Medium
+2021,1,South Korea,Busan,2552,26,Typhoon,Medium
+2021,1,Singapore,Singapore,2689,72,Storm,High
+2021,1,Netherlands,Rotterdam,2911,25,Clear,Medium
+2021,1,Brazil,Santos,2980,62,Typhoon,High
+2021,1,United Kingdom,Felixstowe,1052,49,Clear,High
+2021,1,Australia,Sydney,1205,36,Clear,High
+2021,1,UAE,Jebel Ali,1935,34,Clear,Medium
+2021,2,China,Ningbo,2837,44,Heavy Rain,High
+2021,2,United States,Los Angeles,2306,1,Clear,Low
+2021,2,Germany,Hamburg,1605,62,Fog,High
+2021,2,India,Mumbai,2465,10,Clear,Low
+2021,2,Japan,Yokohama,1346,16,Typhoon,Medium
+2021,2,South Korea,Busan,1219,47,Fog,High
+2021,2,Singapore,Singapore,527,49,Storm,High
+2021,2,Netherlands,Rotterdam,1606,57,Heavy Rain,High
+2021,2,Brazil,Santos,1812,24,Heavy Rain,Medium
+2021,2,United Kingdom,Felixstowe,572,69,Fog,High
+2021,2,Australia,Sydney,1406,8,Fog,Low
+2021,2,UAE,Jebel Ali,2326,40,Storm,High
+2021,3,China,Ningbo,1210,19,Heavy Rain,Medium
+2021,3,United States,Long Beach,1053,59,Clear,High
+2021,3,Germany,Bremerhaven,1587,29,Typhoon,Medium
+2021,3,India,Mumbai,1848,37,Storm,High
+2021,3,Japan,Tokyo,2396,60,Clear,High
+2021,3,South Korea,Busan,2019,69,Storm,High
+2021,3,Singapore,Singapore,1927,24,Clear,Medium
+2021,3,Netherlands,Rotterdam,1251,58,Typhoon,High
+2021,3,Brazil,Santos,878,63,Typhoon,High
+2021,3,United Kingdom,Felixstowe,2284,48,Fog,High
+2021,3,Australia,Sydney,912,69,Heavy Rain,High
+2021,3,UAE,Jebel Ali,1051,17,Storm,Medium
+2021,4,China,Ningbo,2227,37,Clear,High
+2021,4,United States,New York,1886,55,Typhoon,High
+2021,4,Germany,Hamburg,1125,56,Fog,High
+2021,4,India,Mumbai,907,67,Clear,High
+2021,4,Japan,Yokohama,2949,59,Storm,High
+2021,4,South Korea,Busan,2584,17,Fog,Medium
+2021,4,Singapore,Singapore,2545,23,Fog,Medium
+2021,4,Netherlands,Rotterdam,2406,11,Fog,Low
+2021,4,Brazil,Santos,725,36,Heavy Rain,High
+2021,4,United Kingdom,Felixstowe,1401,62,Typhoon,High
+2021,4,Australia,Sydney,2902,16,Clear,Medium
+2021,4,UAE,Jebel Ali,1185,53,Heavy Rain,High
+2021,5,China,Ningbo,1438,11,Heavy Rain,Low
+2021,5,United States,Long Beach,2323,0,Typhoon,Low
+2021,5,Germany,Hamburg,2708,41,Typhoon,High
+2021,5,India,Mumbai,2236,41,Fog,High
+2021,5,Japan,Tokyo,2436,63,Fog,High
+2021,5,South Korea,Busan,820,11,Heavy Rain,Low
+2021,5,Singapore,Singapore,2695,34,Fog,Medium
+2021,5,Netherlands,Rotterdam,2253,59,Storm,High
+2021,5,Brazil,Santos,1042,8,Clear,Low
+2021,5,United Kingdom,Felixstowe,2524,66,Clear,High
+2021,5,Australia,Sydney,1196,27,Fog,Medium
+2021,5,UAE,Jebel Ali,734,59,Heavy Rain,High
+2021,6,China,Shenzhen,1797,64,Clear,High
+2021,6,United States,Long Beach,1959,32,Fog,Medium
+2021,6,Germany,Hamburg,621,6,Fog,Low
+2021,6,India,Mumbai,1514,62,Fog,High
+2021,6,Japan,Yokohama,1481,69,Clear,High
+2021,6,South Korea,Busan,540,15,Clear,Medium
+2021,6,Singapore,Singapore,1058,46,Clear,High
+2021,6,Netherlands,Rotterdam,1308,54,Fog,High
+2021,6,Brazil,Santos,2358,69,Clear,High
+2021,6,United Kingdom,Felixstowe,1305,34,Storm,Medium
+2021,6,Australia,Sydney,574,17,Heavy Rain,Medium
+2021,6,UAE,Jebel Ali,814,19,Typhoon,Medium
+2021,7,China,Ningbo,2467,69,Fog,High
+2021,7,United States,Los Angeles,2577,31,Heavy Rain,Medium
+2021,7,Germany,Bremerhaven,1978,44,Storm,High
+2021,7,India,Chennai,522,29,Storm,Medium
+2021,7,Japan,Yokohama,2961,21,Heavy Rain,Medium
+2021,7,South Korea,Busan,2742,70,Typhoon,High
+2021,7,Singapore,Singapore,979,32,Heavy Rain,Medium
+2021,7,Netherlands,Rotterdam,1532,12,Storm,Medium
+2021,7,Brazil,Santos,1634,2,Clear,Low
+2021,7,United Kingdom,Felixstowe,2567,33,Storm,Medium
+2021,7,Australia,Sydney,2840,14,Fog,Medium
+2021,7,UAE,Jebel Ali,1864,71,Heavy Rain,High
+2021,8,China,Ningbo,1710,43,Typhoon,High
+2021,8,United States,New York,995,42,Storm,High
+2021,8,Germany,Bremerhaven,937,68,Clear,High
+2021,8,India,Mumbai,1617,28,Typhoon,Medium
+2021,8,Japan,Yokohama,2042,67,Typhoon,High
+2021,8,South Korea,Busan,2691,64,Fog,High
+2021,8,Singapore,Singapore,2385,38,Clear,High
+2021,8,Netherlands,Rotterdam,541,25,Storm,Medium
+2021,8,Brazil,Santos,2080,41,Heavy Rain,High
+2021,8,United Kingdom,Felixstowe,2139,61,Storm,High
+2021,8,Australia,Sydney,1236,62,Clear,High
+2021,8,UAE,Jebel Ali,2440,64,Fog,High
+2021,9,China,Shanghai,1701,34,Heavy Rain,Medium
+2021,9,United States,New York,2693,46,Heavy Rain,High
+2021,9,Germany,Bremerhaven,627,29,Storm,Medium
+2021,9,India,Mumbai,2584,39,Storm,High
+2021,9,Japan,Yokohama,1380,66,Storm,High
+2021,9,South Korea,Busan,1687,7,Clear,Low
+2021,9,Singapore,Singapore,2907,52,Fog,High
+2021,9,Netherlands,Rotterdam,2334,22,Storm,Medium
+2021,9,Brazil,Santos,2708,28,Clear,Medium
+2021,9,United Kingdom,Felixstowe,708,37,Typhoon,High
+2021,9,Australia,Sydney,2905,23,Storm,Medium
+2021,9,UAE,Jebel Ali,2392,10,Typhoon,Low
+2021,10,China,Shanghai,1430,53,Heavy Rain,High
+2021,10,United States,Los Angeles,1198,19,Heavy Rain,Medium
+2021,10,Germany,Bremerhaven,1813,12,Storm,Medium
+2021,10,India,Chennai,1444,44,Heavy Rain,High
+2021,10,Japan,Tokyo,2762,32,Fog,Medium
+2021,10,South Korea,Busan,1258,23,Heavy Rain,Medium
+2021,10,Singapore,Singapore,1380,43,Storm,High
+2021,10,Netherlands,Rotterdam,1472,24,Clear,Medium
+2021,10,Brazil,Santos,2227,71,Typhoon,High
+2021,10,United Kingdom,Felixstowe,2665,4,Typhoon,Low
+2021,10,Australia,Sydney,1665,42,Heavy Rain,High
+2021,10,UAE,Jebel Ali,571,19,Typhoon,Medium
+2021,11,China,Shenzhen,1137,44,Heavy Rain,High
+2021,11,United States,Long Beach,1554,64,Fog,High
+2021,11,Germany,Hamburg,1574,59,Fog,High
+2021,11,India,Mumbai,2763,34,Clear,Medium
+2021,11,Japan,Tokyo,2587,41,Clear,High
+2021,11,South Korea,Busan,1490,65,Typhoon,High
+2021,11,Singapore,Singapore,646,31,Storm,Medium
+2021,11,Netherlands,Rotterdam,1837,47,Clear,High
+2021,11,Brazil,Santos,2850,40,Fog,High
+2021,11,United Kingdom,Felixstowe,2727,27,Heavy Rain,Medium
+2021,11,Australia,Sydney,2230,54,Fog,High
+2021,11,UAE,Jebel Ali,1333,43,Storm,High
+2021,12,China,Ningbo,1890,8,Clear,Low
+2021,12,United States,Los Angeles,506,65,Clear,High
+2021,12,Germany,Bremerhaven,2226,46,Storm,High
+2021,12,India,Chennai,2608,17,Fog,Medium
+2021,12,Japan,Tokyo,2267,67,Clear,High
+2021,12,South Korea,Busan,2862,31,Fog,Medium
+2021,12,Singapore,Singapore,1903,19,Typhoon,Medium
+2021,12,Netherlands,Rotterdam,1470,57,Fog,High
+2021,12,Brazil,Santos,2994,2,Storm,Low
+2021,12,United Kingdom,Felixstowe,2244,35,Heavy Rain,Medium
+2021,12,Australia,Sydney,2408,33,Storm,Medium
+2021,12,UAE,Jebel Ali,579,11,Storm,Low
+2022,1,China,Shenzhen,521,16,Storm,Medium
+2022,1,United States,Long Beach,1590,68,Clear,High
+2022,1,Germany,Hamburg,1154,9,Storm,Low
+2022,1,India,Chennai,1101,58,Heavy Rain,High
+2022,1,Japan,Yokohama,1645,34,Clear,Medium
+2022,1,South Korea,Busan,2107,44,Clear,High
+2022,1,Singapore,Singapore,2971,0,Fog,Low
+2022,1,Netherlands,Rotterdam,1245,55,Heavy Rain,High
+2022,1,Brazil,Santos,1406,35,Storm,Medium
+2022,1,United Kingdom,Felixstowe,979,10,Clear,Low
+2022,1,Australia,Sydney,2289,51,Fog,High
+2022,1,UAE,Jebel Ali,2757,30,Fog,Medium
+2022,2,China,Ningbo,2745,48,Storm,High
+2022,2,United States,Long Beach,2621,54,Fog,High
+2022,2,Germany,Hamburg,1435,42,Storm,High
+2022,2,India,Chennai,2842,64,Typhoon,High
+2022,2,Japan,Tokyo,1823,12,Clear,Medium
+2022,2,South Korea,Busan,980,4,Storm,Low
+2022,2,Singapore,Singapore,2234,0,Storm,Low
+2022,2,Netherlands,Rotterdam,1082,32,Typhoon,Medium
+2022,2,Brazil,Santos,1106,6,Fog,Low
+2022,2,United Kingdom,Felixstowe,2341,50,Clear,High
+2022,2,Australia,Sydney,1210,3,Heavy Rain,Low
+2022,2,UAE,Jebel Ali,1088,42,Heavy Rain,High
+2022,3,China,Ningbo,647,45,Heavy Rain,High
+2022,3,United States,Long Beach,1824,9,Heavy Rain,Low
+2022,3,Germany,Hamburg,1217,24,Fog,Medium
+2022,3,India,Chennai,1684,5,Heavy Rain,Low
+2022,3,Japan,Yokohama,662,9,Typhoon,Low
+2022,3,South Korea,Busan,2496,41,Clear,High
+2022,3,Singapore,Singapore,2351,19,Clear,Medium
+2022,3,Netherlands,Rotterdam,2218,5,Typhoon,Low
+2022,3,Brazil,Santos,2996,29,Storm,Medium
+2022,3,United Kingdom,Felixstowe,1857,38,Heavy Rain,High
+2022,3,Australia,Sydney,1077,30,Typhoon,Medium
+2022,3,UAE,Jebel Ali,1897,26,Typhoon,Medium
+2022,4,China,Ningbo,1631,60,Heavy Rain,High
+2022,4,United States,New York,1012,60,Storm,High
+2022,4,Germany,Hamburg,1172,20,Heavy Rain,Medium
+2022,4,India,Chennai,1980,69,Storm,High
+2022,4,Japan,Tokyo,822,69,Typhoon,High
+2022,4,South Korea,Busan,1173,72,Storm,High
+2022,4,Singapore,Singapore,2260,62,Heavy Rain,High
+2022,4,Netherlands,Rotterdam,1904,9,Heavy Rain,Low
+2022,4,Brazil,Santos,1473,20,Heavy Rain,Medium
+2022,4,United Kingdom,Felixstowe,2019,57,Fog,High
+2022,4,Australia,Sydney,2180,19,Fog,Medium
+2022,4,UAE,Jebel Ali,1418,27,Heavy Rain,Medium
+2022,5,China,Shenzhen,682,48,Clear,High
+2022,5,United States,Long Beach,544,14,Heavy Rain,Medium
+2022,5,Germany,Bremerhaven,1357,20,Heavy Rain,Medium
+2022,5,India,Chennai,2526,14,Heavy Rain,Medium
+2022,5,Japan,Tokyo,1060,53,Heavy Rain,High
+2022,5,South Korea,Busan,1231,52,Storm,High
+2022,5,Singapore,Singapore,1126,40,Storm,High
+2022,5,Netherlands,Rotterdam,2554,20,Typhoon,Medium
+2022,5,Brazil,Santos,776,57,Fog,High
+2022,5,United Kingdom,Felixstowe,1467,29,Storm,Medium
+2022,5,Australia,Sydney,2644,56,Heavy Rain,High
+2022,5,UAE,Jebel Ali,885,10,Storm,Low
+2022,6,China,Shenzhen,1846,4,Heavy Rain,Low
+2022,6,United States,Los Angeles,1056,20,Clear,Medium
+2022,6,Germany,Hamburg,2268,37,Clear,High
+2022,6,India,Mumbai,2238,64,Clear,High
+2022,6,Japan,Yokohama,2393,10,Fog,Low
+2022,6,South Korea,Busan,1114,23,Clear,Medium
+2022,6,Singapore,Singapore,925,5,Heavy Rain,Low
+2022,6,Netherlands,Rotterdam,1545,49,Clear,High
+2022,6,Brazil,Santos,1272,41,Fog,High
+2022,6,United Kingdom,Felixstowe,867,67,Heavy Rain,High
+2022,6,Australia,Sydney,2322,60,Heavy Rain,High
+2022,6,UAE,Jebel Ali,522,6,Clear,Low
+2022,7,China,Ningbo,2296,45,Clear,High
+2022,7,United States,New York,2083,66,Storm,High
+2022,7,Germany,Bremerhaven,2138,48,Storm,High
+2022,7,India,Mumbai,1220,28,Typhoon,Medium
+2022,7,Japan,Yokohama,1227,35,Typhoon,Medium
+2022,7,South Korea,Busan,2812,6,Typhoon,Low
+2022,7,Singapore,Singapore,2464,35,Clear,Medium
+2022,7,Netherlands,Rotterdam,2352,33,Clear,Medium
+2022,7,Brazil,Santos,2828,32,Clear,Medium
+2022,7,United Kingdom,Felixstowe,1814,20,Heavy Rain,Medium
+2022,7,Australia,Sydney,767,58,Heavy Rain,High
+2022,7,UAE,Jebel Ali,2334,42,Clear,High
+2022,8,China,Shanghai,1191,4,Storm,Low
+2022,8,United States,New York,2961,6,Fog,Low
+2022,8,Germany,Hamburg,2306,51,Typhoon,High
+2022,8,India,Mumbai,2564,46,Storm,High
+2022,8,Japan,Yokohama,1003,27,Heavy Rain,Medium
+2022,8,South Korea,Busan,1266,24,Storm,Medium
+2022,8,Singapore,Singapore,730,66,Storm,High
+2022,8,Netherlands,Rotterdam,2095,68,Storm,High
+2022,8,Brazil,Santos,2004,55,Fog,High
+2022,8,United Kingdom,Felixstowe,1097,15,Typhoon,Medium
+2022,8,Australia,Sydney,2735,2,Fog,Low
+2022,8,UAE,Jebel Ali,1424,44,Storm,High
+2022,9,China,Shanghai,2350,38,Fog,High
+2022,9,United States,New York,603,50,Heavy Rain,High
+2022,9,Germany,Hamburg,1417,23,Fog,Medium
+2022,9,India,Chennai,1710,4,Clear,Low
+2022,9,Japan,Yokohama,1190,29,Clear,Medium
+2022,9,South Korea,Busan,2393,36,Typhoon,High
+2022,9,Singapore,Singapore,2830,24,Fog,Medium
+2022,9,Netherlands,Rotterdam,2676,36,Storm,High
+2022,9,Brazil,Santos,2936,63,Typhoon,High
+2022,9,United Kingdom,Felixstowe,865,48,Storm,High
+2022,9,Australia,Sydney,2555,34,Clear,Medium
+2022,9,UAE,Jebel Ali,871,38,Typhoon,High
+2022,10,China,Shenzhen,1973,9,Heavy Rain,Low
+2022,10,United States,Los Angeles,1730,15,Storm,Medium
+2022,10,Germany,Hamburg,2830,61,Fog,High
+2022,10,India,Mumbai,2468,52,Typhoon,High
+2022,10,Japan,Tokyo,554,28,Fog,Medium
+2022,10,South Korea,Busan,672,43,Heavy Rain,High
+2022,10,Singapore,Singapore,2700,63,Fog,High
+2022,10,Netherlands,Rotterdam,722,71,Heavy Rain,High
+2022,10,Brazil,Santos,2699,61,Fog,High
+2022,10,United Kingdom,Felixstowe,2088,47,Clear,High
+2022,10,Australia,Sydney,2025,66,Storm,High
+2022,10,UAE,Jebel Ali,1556,49,Clear,High
+2022,11,China,Ningbo,1742,21,Fog,Medium
+2022,11,United States,New York,2776,49,Fog,High
+2022,11,Germany,Bremerhaven,1913,53,Storm,High
+2022,11,India,Chennai,882,26,Clear,Medium
+2022,11,Japan,Tokyo,1268,67,Heavy Rain,High
+2022,11,South Korea,Busan,2362,72,Storm,High
+2022,11,Singapore,Singapore,939,51,Fog,High
+2022,11,Netherlands,Rotterdam,2113,47,Storm,High
+2022,11,Brazil,Santos,2802,11,Storm,Low
+2022,11,United Kingdom,Felixstowe,1824,32,Clear,Medium
+2022,11,Australia,Sydney,766,21,Clear,Medium
+2022,11,UAE,Jebel Ali,2470,12,Typhoon,Medium
+2022,12,China,Shanghai,2943,31,Typhoon,Medium
+2022,12,United States,Long Beach,521,47,Heavy Rain,High
+2022,12,Germany,Hamburg,2593,23,Heavy Rain,Medium
+2022,12,India,Mumbai,617,55,Storm,High
+2022,12,Japan,Yokohama,1905,28,Storm,Medium
+2022,12,South Korea,Busan,2883,63,Clear,High
+2022,12,Singapore,Singapore,1260,70,Typhoon,High
+2022,12,Netherlands,Rotterdam,1495,2,Storm,Low
+2022,12,Brazil,Santos,2461,53,Typhoon,High
+2022,12,United Kingdom,Felixstowe,768,54,Clear,High
+2022,12,Australia,Sydney,2683,0,Storm,Low
+2022,12,UAE,Jebel Ali,1358,41,Heavy Rain,High
+2023,1,China,Shenzhen,979,37,Heavy Rain,High
+2023,1,United States,Los Angeles,1391,14,Storm,Medium
+2023,1,Germany,Bremerhaven,2358,2,Typhoon,Low
+2023,1,India,Mumbai,2325,20,Typhoon,Medium
+2023,1,Japan,Tokyo,2038,5,Heavy Rain,Low
+2023,1,South Korea,Busan,2260,50,Fog,High
+2023,1,Singapore,Singapore,1512,3,Typhoon,Low
+2023,1,Netherlands,Rotterdam,2110,20,Typhoon,Medium
+2023,1,Brazil,Santos,1110,41,Fog,High
+2023,1,United Kingdom,Felixstowe,977,53,Heavy Rain,High
+2023,1,Australia,Sydney,2376,10,Fog,Low
+2023,1,UAE,Jebel Ali,2175,28,Heavy Rain,Medium
+2023,2,China,Shenzhen,1504,1,Clear,Low
+2023,2,United States,New York,2642,71,Fog,High
+2023,2,Germany,Hamburg,1524,55,Typhoon,High
+2023,2,India,Chennai,868,46,Fog,High
+2023,2,Japan,Tokyo,1774,25,Storm,Medium
+2023,2,South Korea,Busan,2420,25,Typhoon,Medium
+2023,2,Singapore,Singapore,1246,29,Heavy Rain,Medium
+2023,2,Netherlands,Rotterdam,1177,47,Storm,High
+2023,2,Brazil,Santos,2131,48,Fog,High
+2023,2,United Kingdom,Felixstowe,989,61,Clear,High
+2023,2,Australia,Sydney,1985,57,Heavy Rain,High
+2023,2,UAE,Jebel Ali,704,53,Fog,High
+2023,3,China,Shanghai,1537,41,Fog,High
+2023,3,United States,Los Angeles,1373,52,Typhoon,High
+2023,3,Germany,Hamburg,2787,53,Fog,High
+2023,3,India,Mumbai,2009,59,Fog,High
+2023,3,Japan,Yokohama,2557,35,Typhoon,Medium
+2023,3,South Korea,Busan,1012,70,Storm,High
+2023,3,Singapore,Singapore,2719,16,Fog,Medium
+2023,3,Netherlands,Rotterdam,2551,72,Typhoon,High
+2023,3,Brazil,Santos,2948,29,Heavy Rain,Medium
+2023,3,United Kingdom,Felixstowe,1929,34,Fog,Medium
+2023,3,Australia,Sydney,2443,8,Heavy Rain,Low
+2023,3,UAE,Jebel Ali,826,20,Typhoon,Medium
+2023,4,China,Shenzhen,2445,2,Clear,Low
+2023,4,United States,Long Beach,2740,2,Storm,Low
+2023,4,Germany,Hamburg,1008,41,Storm,High
+2023,4,India,Mumbai,2724,4,Storm,Low
+2023,4,Japan,Tokyo,1675,35,Heavy Rain,Medium
+2023,4,South Korea,Busan,518,36,Fog,High
+2023,4,Singapore,Singapore,2548,8,Storm,Low
+2023,4,Netherlands,Rotterdam,1480,41,Typhoon,High
+2023,4,Brazil,Santos,1260,28,Fog,Medium
+2023,4,United Kingdom,Felixstowe,598,38,Heavy Rain,High
+2023,4,Australia,Sydney,1241,52,Typhoon,High
+2023,4,UAE,Jebel Ali,2015,63,Storm,High
+2023,5,China,Ningbo,2092,57,Fog,High
+2023,5,United States,New York,801,62,Storm,High
+2023,5,Germany,Bremerhaven,1383,43,Clear,High
+2023,5,India,Chennai,776,5,Heavy Rain,Low
+2023,5,Japan,Yokohama,1037,61,Fog,High
+2023,5,South Korea,Busan,1693,15,Storm,Medium
+2023,5,Singapore,Singapore,1246,8,Heavy Rain,Low
+2023,5,Netherlands,Rotterdam,1718,59,Heavy Rain,High
+2023,5,Brazil,Santos,2475,46,Storm,High
+2023,5,United Kingdom,Felixstowe,1632,50,Heavy Rain,High
+2023,5,Australia,Sydney,1443,51,Typhoon,High
+2023,5,UAE,Jebel Ali,702,45,Storm,High
+2023,6,China,Ningbo,2262,12,Fog,Medium
+2023,6,United States,New York,799,60,Storm,High
+2023,6,Germany,Hamburg,2109,1,Heavy Rain,Low
+2023,6,India,Mumbai,1470,60,Heavy Rain,High
+2023,6,Japan,Tokyo,1887,25,Clear,Medium
+2023,6,South Korea,Busan,1143,69,Fog,High
+2023,6,Singapore,Singapore,2277,65,Fog,High
+2023,6,Netherlands,Rotterdam,616,45,Fog,High
+2023,6,Brazil,Santos,848,49,Storm,High
+2023,6,United Kingdom,Felixstowe,2942,36,Typhoon,High
+2023,6,Australia,Sydney,1431,68,Clear,High
+2023,6,UAE,Jebel Ali,829,30,Typhoon,Medium
+2023,7,China,Shanghai,1217,20,Heavy Rain,Medium
+2023,7,United States,Los Angeles,2462,68,Typhoon,High
+2023,7,Germany,Bremerhaven,1158,44,Heavy Rain,High
+2023,7,India,Mumbai,1039,20,Fog,Medium
+2023,7,Japan,Yokohama,1917,7,Fog,Low
+2023,7,South Korea,Busan,1772,8,Typhoon,Low
+2023,7,Singapore,Singapore,1877,24,Typhoon,Medium
+2023,7,Netherlands,Rotterdam,2212,0,Typhoon,Low
+2023,7,Brazil,Santos,783,8,Fog,Low
+2023,7,United Kingdom,Felixstowe,1555,24,Clear,Medium
+2023,7,Australia,Sydney,1994,40,Heavy Rain,High
+2023,7,UAE,Jebel Ali,806,46,Heavy Rain,High
+2023,8,China,Shanghai,1425,2,Storm,Low
+2023,8,United States,Los Angeles,2075,22,Heavy Rain,Medium
+2023,8,Germany,Bremerhaven,863,32,Clear,Medium
+2023,8,India,Chennai,869,6,Heavy Rain,Low
+2023,8,Japan,Yokohama,1221,3,Typhoon,Low
+2023,8,South Korea,Busan,1220,59,Typhoon,High
+2023,8,Singapore,Singapore,500,37,Fog,High
+2023,8,Netherlands,Rotterdam,1817,54,Clear,High
+2023,8,Brazil,Santos,2565,10,Clear,Low
+2023,8,United Kingdom,Felixstowe,1286,40,Storm,High
+2023,8,Australia,Sydney,1863,50,Clear,High
+2023,8,UAE,Jebel Ali,2246,18,Storm,Medium
+2023,9,China,Ningbo,2025,53,Clear,High
+2023,9,United States,Los Angeles,736,69,Storm,High
+2023,9,Germany,Bremerhaven,1076,41,Typhoon,High
+2023,9,India,Chennai,1458,17,Clear,Medium
+2023,9,Japan,Tokyo,1918,61,Fog,High
+2023,9,South Korea,Busan,2613,20,Typhoon,Medium
+2023,9,Singapore,Singapore,2907,38,Heavy Rain,High
+2023,9,Netherlands,Rotterdam,2044,33,Heavy Rain,Medium
+2023,9,Brazil,Santos,2183,44,Heavy Rain,High
+2023,9,United Kingdom,Felixstowe,2950,61,Clear,High
+2023,9,Australia,Sydney,2818,45,Storm,High
+2023,9,UAE,Jebel Ali,762,30,Clear,Medium
+2023,10,China,Shenzhen,2134,41,Storm,High
+2023,10,United States,Long Beach,682,58,Clear,High
+2023,10,Germany,Bremerhaven,1312,28,Storm,Medium
+2023,10,India,Mumbai,729,4,Typhoon,Low
+2023,10,Japan,Yokohama,918,12,Heavy Rain,Medium
+2023,10,South Korea,Busan,1190,33,Heavy Rain,Medium
+2023,10,Singapore,Singapore,2325,61,Typhoon,High
+2023,10,Netherlands,Rotterdam,2782,16,Typhoon,Medium
+2023,10,Brazil,Santos,2374,21,Storm,Medium
+2023,10,United Kingdom,Felixstowe,2981,29,Storm,Medium
+2023,10,Australia,Sydney,552,46,Heavy Rain,High
+2023,10,UAE,Jebel Ali,1733,34,Fog,Medium
+2023,11,China,Shenzhen,1347,44,Typhoon,High
+2023,11,United States,Los Angeles,2319,66,Storm,High
+2023,11,Germany,Bremerhaven,2917,17,Clear,Medium
+2023,11,India,Chennai,1271,23,Fog,Medium
+2023,11,Japan,Yokohama,2356,49,Heavy Rain,High
+2023,11,South Korea,Busan,2020,33,Typhoon,Medium
+2023,11,Singapore,Singapore,2288,19,Typhoon,Medium
+2023,11,Netherlands,Rotterdam,1740,37,Typhoon,High
+2023,11,Brazil,Santos,2425,64,Typhoon,High
+2023,11,United Kingdom,Felixstowe,1908,10,Heavy Rain,Low
+2023,11,Australia,Sydney,513,44,Heavy Rain,High
+2023,11,UAE,Jebel Ali,897,69,Storm,High
+2023,12,China,Shanghai,2668,4,Heavy Rain,Low
+2023,12,United States,Long Beach,2911,9,Storm,Low
+2023,12,Germany,Hamburg,1996,26,Fog,Medium
+2023,12,India,Chennai,632,43,Heavy Rain,High
+2023,12,Japan,Yokohama,1648,71,Fog,High
+2023,12,South Korea,Busan,935,40,Fog,High
+2023,12,Singapore,Singapore,2404,56,Clear,High
+2023,12,Netherlands,Rotterdam,2704,49,Clear,High
+2023,12,Brazil,Santos,1694,61,Storm,High
+2023,12,United Kingdom,Felixstowe,1934,63,Clear,High
+2023,12,Australia,Sydney,2170,58,Heavy Rain,High
+2023,12,UAE,Jebel Ali,786,68,Clear,High
+2024,1,China,Shenzhen,2624,72,Storm,High
+2024,1,United States,New York,1816,11,Typhoon,Low
+2024,1,Germany,Bremerhaven,1112,60,Clear,High
+2024,1,India,Chennai,926,61,Typhoon,High
+2024,1,Japan,Tokyo,737,43,Storm,High
+2024,1,South Korea,Busan,1866,54,Clear,High
+2024,1,Singapore,Singapore,1562,12,Typhoon,Medium
+2024,1,Netherlands,Rotterdam,1154,10,Fog,Low
+2024,1,Brazil,Santos,703,19,Storm,Medium
+2024,1,United Kingdom,Felixstowe,2761,22,Typhoon,Medium
+2024,1,Australia,Sydney,1223,16,Typhoon,Medium
+2024,1,UAE,Jebel Ali,1134,3,Fog,Low
+2024,2,China,Shanghai,1869,68,Storm,High
+2024,2,United States,Long Beach,2336,4,Storm,Low
+2024,2,Germany,Bremerhaven,1846,26,Typhoon,Medium
+2024,2,India,Mumbai,1971,28,Heavy Rain,Medium
+2024,2,Japan,Tokyo,2365,59,Typhoon,High
+2024,2,South Korea,Busan,1154,2,Typhoon,Low
+2024,2,Singapore,Singapore,947,23,Storm,Medium
+2024,2,Netherlands,Rotterdam,2109,16,Storm,Medium
+2024,2,Brazil,Santos,2919,14,Heavy Rain,Medium
+2024,2,United Kingdom,Felixstowe,1739,23,Fog,Medium
+2024,2,Australia,Sydney,552,17,Storm,Medium
+2024,2,UAE,Jebel Ali,1120,16,Typhoon,Medium
+2024,3,China,Ningbo,1037,63,Typhoon,High
+2024,3,United States,Los Angeles,1825,9,Heavy Rain,Low
+2024,3,Germany,Hamburg,1924,40,Fog,High
+2024,3,India,Mumbai,2232,61,Heavy Rain,High
+2024,3,Japan,Yokohama,1754,50,Fog,High
+2024,3,South Korea,Busan,1474,56,Fog,High
+2024,3,Singapore,Singapore,1007,55,Typhoon,High
+2024,3,Netherlands,Rotterdam,2447,40,Clear,High
+2024,3,Brazil,Santos,2415,19,Typhoon,Medium
+2024,3,United Kingdom,Felixstowe,665,65,Clear,High
+2024,3,Australia,Sydney,2007,20,Clear,Medium
+2024,3,UAE,Jebel Ali,2174,5,Clear,Low
+2024,4,China,Ningbo,2612,9,Heavy Rain,Low
+2024,4,United States,New York,2770,67,Fog,High
+2024,4,Germany,Hamburg,625,57,Storm,High
+2024,4,India,Chennai,2580,50,Heavy Rain,High
+2024,4,Japan,Yokohama,1905,42,Clear,High
+2024,4,South Korea,Busan,946,72,Clear,High
+2024,4,Singapore,Singapore,2167,72,Clear,High
+2024,4,Netherlands,Rotterdam,2561,5,Clear,Low
+2024,4,Brazil,Santos,2143,36,Heavy Rain,High
+2024,4,United Kingdom,Felixstowe,2629,38,Clear,High
+2024,4,Australia,Sydney,926,4,Storm,Low
+2024,4,UAE,Jebel Ali,2731,16,Fog,Medium
+2024,5,China,Shenzhen,2554,48,Fog,High
+2024,5,United States,New York,1046,13,Typhoon,Medium
+2024,5,Germany,Bremerhaven,2593,64,Clear,High
+2024,5,India,Chennai,2731,28,Storm,Medium
+2024,5,Japan,Tokyo,1510,15,Fog,Medium
+2024,5,South Korea,Busan,2108,45,Typhoon,High
+2024,5,Singapore,Singapore,672,45,Clear,High
+2024,5,Netherlands,Rotterdam,593,65,Clear,High
+2024,5,Brazil,Santos,2746,45,Typhoon,High
+2024,5,United Kingdom,Felixstowe,1774,10,Clear,Low
+2024,5,Australia,Sydney,2872,32,Heavy Rain,Medium
+2024,5,UAE,Jebel Ali,1933,65,Heavy Rain,High
+2024,6,China,Shenzhen,526,11,Storm,Low
+2024,6,United States,Los Angeles,2657,40,Typhoon,High
+2024,6,Germany,Bremerhaven,568,29,Fog,Medium
+2024,6,India,Chennai,542,50,Fog,High
+2024,6,Japan,Yokohama,1699,70,Fog,High
+2024,6,South Korea,Busan,2768,24,Typhoon,Medium
+2024,6,Singapore,Singapore,1073,67,Typhoon,High
+2024,6,Netherlands,Rotterdam,650,66,Typhoon,High
+2024,6,Brazil,Santos,956,42,Storm,High
+2024,6,United Kingdom,Felixstowe,1449,10,Fog,Low
+2024,6,Australia,Sydney,2495,61,Heavy Rain,High
+2024,6,UAE,Jebel Ali,1325,14,Clear,Medium
+2024,7,China,Ningbo,1742,58,Clear,High
+2024,7,United States,Los Angeles,2128,28,Typhoon,Medium
+2024,7,Germany,Bremerhaven,2648,6,Heavy Rain,Low
+2024,7,India,Mumbai,748,45,Storm,High
+2024,7,Japan,Yokohama,1764,45,Fog,High
+2024,7,South Korea,Busan,2872,52,Clear,High
+2024,7,Singapore,Singapore,1895,25,Heavy Rain,Medium
+2024,7,Netherlands,Rotterdam,1277,46,Clear,High
+2024,7,Brazil,Santos,1636,71,Storm,High
+2024,7,United Kingdom,Felixstowe,2751,55,Storm,High
+2024,7,Australia,Sydney,730,9,Typhoon,Low
+2024,7,UAE,Jebel Ali,1449,21,Storm,Medium
+2024,8,China,Shanghai,2379,33,Clear,Medium
+2024,8,United States,Long Beach,1182,37,Typhoon,High
+2024,8,Germany,Hamburg,2097,8,Fog,Low
+2024,8,India,Mumbai,2581,48,Fog,High
+2024,8,Japan,Tokyo,2029,48,Fog,High
+2024,8,South Korea,Busan,1409,24,Heavy Rain,Medium
+2024,8,Singapore,Singapore,1337,11,Heavy Rain,Low
+2024,8,Netherlands,Rotterdam,2542,71,Clear,High
+2024,8,Brazil,Santos,1157,46,Fog,High
+2024,8,United Kingdom,Felixstowe,1191,35,Fog,Medium
+2024,8,Australia,Sydney,1868,22,Heavy Rain,Medium
+2024,8,UAE,Jebel Ali,610,5,Fog,Low
+2024,9,China,Shanghai,633,47,Clear,High
+2024,9,United States,Los Angeles,717,32,Fog,Medium
+2024,9,Germany,Bremerhaven,1695,43,Fog,High
+2024,9,India,Chennai,2830,59,Clear,High
+2024,9,Japan,Tokyo,1652,22,Clear,Medium
+2024,9,South Korea,Busan,2209,9,Typhoon,Low
+2024,9,Singapore,Singapore,2852,40,Fog,High
+2024,9,Netherlands,Rotterdam,901,15,Storm,Medium
+2024,9,Brazil,Santos,1889,1,Heavy Rain,Low
+2024,9,United Kingdom,Felixstowe,2071,32,Storm,Medium
+2024,9,Australia,Sydney,1695,23,Typhoon,Medium
+2024,9,UAE,Jebel Ali,2824,4,Clear,Low
+2024,10,China,Ningbo,2504,52,Typhoon,High
+2024,10,United States,Los Angeles,976,35,Clear,Medium
+2024,10,Germany,Hamburg,2704,6,Clear,Low
+2024,10,India,Mumbai,738,58,Storm,High
+2024,10,Japan,Yokohama,2823,68,Storm,High
+2024,10,South Korea,Busan,660,65,Heavy Rain,High
+2024,10,Singapore,Singapore,2509,63,Clear,High
+2024,10,Netherlands,Rotterdam,1553,10,Heavy Rain,Low
+2024,10,Brazil,Santos,2746,38,Typhoon,High
+2024,10,United Kingdom,Felixstowe,2247,18,Storm,Medium
+2024,10,Australia,Sydney,1664,55,Fog,High
+2024,10,UAE,Jebel Ali,530,9,Typhoon,Low
+2024,11,China,Shanghai,974,38,Storm,High
+2024,11,United States,Los Angeles,797,35,Typhoon,Medium
+2024,11,Germany,Bremerhaven,646,55,Storm,High
+2024,11,India,Mumbai,1800,54,Clear,High
+2024,11,Japan,Yokohama,1172,40,Clear,High
+2024,11,South Korea,Busan,2428,16,Clear,Medium
+2024,11,Singapore,Singapore,1984,15,Storm,Medium
+2024,11,Netherlands,Rotterdam,1747,38,Heavy Rain,High
+2024,11,Brazil,Santos,2604,32,Storm,Medium
+2024,11,United Kingdom,Felixstowe,2070,72,Typhoon,High
+2024,11,Australia,Sydney,2116,68,Fog,High
+2024,11,UAE,Jebel Ali,2643,52,Typhoon,High
+2024,12,China,Shanghai,2745,14,Storm,Medium
+2024,12,United States,Long Beach,860,11,Heavy Rain,Low
+2024,12,Germany,Bremerhaven,779,56,Storm,High
+2024,12,India,Mumbai,725,33,Clear,Medium
+2024,12,Japan,Yokohama,1668,10,Storm,Low
+2024,12,South Korea,Busan,1220,33,Clear,Medium
+2024,12,Singapore,Singapore,2680,45,Clear,High
+2024,12,Netherlands,Rotterdam,1421,11,Typhoon,Low
+2024,12,Brazil,Santos,1771,1,Heavy Rain,Low
+2024,12,United Kingdom,Felixstowe,1712,43,Typhoon,High
+2024,12,Australia,Sydney,2298,6,Clear,Low
+2024,12,UAE,Jebel Ali,1597,62,Fog,High
