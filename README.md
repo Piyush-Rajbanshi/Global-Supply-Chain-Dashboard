@@ -51,6 +51,7 @@ global_supply_chain_dashboard/
 ├── generate_dataset.py
 ├── risk_model.py
 ├── global_supply_chain_risk_dataset_2020_2024.csv
+├── synthetic_supply_chain_data
 ├── requirements.txt
 └── README.md
 ```
